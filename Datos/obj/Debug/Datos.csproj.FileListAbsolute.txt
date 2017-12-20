@@ -1,0 +1,11 @@
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\Datos.dll.config
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\Datos.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\Datos.pdb
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\obj\Debug\Datos.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,17 @@
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\MVCapp.exe.config
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\MVCapp.exe
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\MVCapp.pdb
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\Datos.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\EntityFramework.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\Datos.pdb
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\Datos.dll.config
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\EntityFramework.xml
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.csprojResolveAssemblyReference.cache
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.Form1.resources
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.Properties.Resources.resources
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.csproj.GenerateResource.Cache
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.csproj.CoreCompileInputs.cache
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.exe
+C:\Users\Workgroup\Documents\Visual Studio 2017\Projects\MVCapp\MVCapp\obj\Debug\MVCapp.pdb
